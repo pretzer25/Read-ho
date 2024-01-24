@@ -74,7 +74,7 @@
         let html = '';
         data.forEach(item => {
             html += `
-                <button id="exampleButton" onclick="gg('/./g/${item.name.replace(/ /g, '')}.html')">
+                <button id="exampleButton" onclick="gg('/./b/${item.url}')">
                     <img id="exampleImage" src="/./assets/img/${item.image}">
                     <p id="exampleText">${item.text}</p>
                 </button>
