@@ -1,0 +1,42 @@
+[
+  {
+    "text": "cs",
+    "url": "/./b/cs.html",
+    "image": "/./assets/img/cs.png"
+  },
+  {
+    "text": "dd",
+    "url": "/./b/dd.html",
+    "image": "/./assets/img/dc.png"
+  },
+  {
+    "text": "ge",
+    "url": "/./b/ge.html",
+    "image": "/./assets/img/ge.png"
+  },
+  {
+    "text": "hl",
+    "url": "/./b/hl.html",
+    "image": "/./assets/img/hl.png"
+  },
+  {
+    "text": "hw",
+    "url": "/./b/hw.html",
+    "image": "/./assets/img/hw.png"
+  },
+  {
+    "text": "ng",
+    "url": "/./b/ng.html",
+    "image": "/./assets/img/ng.png"
+  },
+  {
+    "text": "ro",
+    "url": "/./b/ro.html",
+    "image": "/./assets/img/ro.png"
+  },
+  {
+    "text": "sk",
+    "url": "/./b/sk.html",
+    "image": "/./assets/img/sk.png"
+  }
+]
