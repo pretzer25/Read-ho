@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Random Background Image</title>
+	<style>
+		body {
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+	</style>
+	<script>
+		// Array of image URLs
+		var images = [
+		  '/./assets/img/1.jpg',
+		  '/./assets/img/2.jpg',
+		  '/./assets/img/3.jpg',
+		  '/./assets/img/4.jpg'
+		];
+
+		// Function to set random background image
+		function setRandomBackground() {
+		  var randomImage = images[Math.floor(Math.random() * images.length)];
+		  document.body.style.backgroundImage = 'url(' + randomImage + ')';
+		}
+
+		// Call the function when the page loads
+		window.onload = setRandomBackground;
+	</script>
+</head>
+<body>
+	<!-- Your content here -->
+</body>
+</html>
